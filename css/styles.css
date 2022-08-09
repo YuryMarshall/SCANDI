@@ -268,7 +268,7 @@ body {
 }
 .result__description {
   color: white;
-  background: url("/pic/pic1.jpg") no-repeat center;
+  background: url("../pic/pic1.jpg") no-repeat center;
   background-size: 488px 451px;
 }
 .result__title {
@@ -303,11 +303,11 @@ body {
   margin: 0 auto;
   margin-bottom: 65px;
   width: 310px;
-  background: url(/pic/Arrow.svg) no-repeat 95% center;
+  background: url(../pic/Arrow.svg) no-repeat 95% center;
 }
 .more:hover,
 more:focus {
-  background: url(/pic/Arrow.svg) no-repeat right center;
+  background: url(../pic/Arrow.svg) no-repeat right center;
   transition: 0.2s all;
 }
 /*------------------------------------------TEAM--------------------------------*/
